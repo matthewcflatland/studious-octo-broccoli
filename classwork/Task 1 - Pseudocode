@@ -1,0 +1,11 @@
+Example of pseudocode
+planning out a program that checks if a number is divisible by 3
+
+Need to get a number from the user
+need to determine if it is divisible by 3
+return yes it is or no it is not
+
+user inputs a number and program saves it to a vairable
+check if variable is divisible by 3 with mod 3
+if there is no remainder then return yes
+if there is a remainder then return no
